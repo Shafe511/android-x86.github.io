@@ -1,3 +1,1 @@
-# Android-x86 official website
-
-You are welcome to help improve the website. Just clone the repo, update it and send us a pull request.
+BTHENUM\{a82efa21-ae5c-3dde-9bbc-f16da7b16c5a}_LOCALMFG&0002
